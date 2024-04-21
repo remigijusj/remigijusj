@@ -1,5 +1,5 @@
 ### Hi there!
 
-- :gem: I'm a professional Ruby developer
-- :computer: I’m currently working with [Toptal](https://github.com/toptal/)
-- :star: I’m interested in math, programming, deep learning, sci-fi
+- :gem: I'm a professional software engineer
+- :computer: I’m currently working at [Toptal](https://github.com/toptal/)
+- :star: I’m interested in mathematics, programming, science fiction and more
